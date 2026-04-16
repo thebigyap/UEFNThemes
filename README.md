@@ -1,5 +1,5 @@
 # Repository Views
-![Viewers](https://bigyap.goatcounter.com/counter/UEFNThemes.svg)
+![Viewers](https://bigyap.goatcounter.com/counter/TOTAL.svg?no_branding=1)
 
 # UEFN Themes
 
